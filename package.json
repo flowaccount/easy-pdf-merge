@@ -1,0 +1,62 @@
+{
+  "_from": "easy-pdf-merge@packageVersion",
+  "_id": "easy-pdf-merge@packageVersion",
+  "_inBundle": false,
+  "_integrity": "sha1-dBx0og2BY+DQHA2qOzTHWqzjdLM=",
+  "_location": "/easy-pdf-merge",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "easy-pdf-merge@packageVersion",
+    "name": "easy-pdf-merge",
+    "escapedName": "easy-pdf-merge",
+    "rawSpec": "packageVersion",
+    "saveSpec": null,
+    "fetchSpec": "packageVersion"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/easy-pdf-merge/-/easy-pdf-merge-packageVersion.tgz",
+  "_shasum": "741c74a20d8163e0d01c0daa3b34c75aace374b3",
+  "_spec": "easy-pdf-merge@packageVersion",
+  "_where": "D:\\pdf-merge",
+  "author": {
+    "name": "Sorrasak Phonklad",
+    "email": "beam@flowaccount.com",
+    "url": "https://www.github.com/flowaccount"
+  },
+  "bugs": {
+    "url": "https://github.com/flowaccount/easy-pdf-merge.git/issues",
+    "email": "beam@flowaccount.com"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A node module to merge PDFs. Uses Apache PDFBox library.",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "homepage": "https://github.com/flowaccount/easy-pdf-merge.git#readme",
+  "keywords": [
+    "pdf",
+    "merge",
+    "easy",
+    "pdf-merge",
+    "merge-pdf",
+    "easy-pdf-merge",
+    "easy-merge-pdf"
+  ],
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "name": "easy-pdf-merge",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flowaccount/easy-pdf-merge.git"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "version": "packageVersion"
+}
